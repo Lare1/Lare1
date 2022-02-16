@@ -6,5 +6,8 @@
 - lare@plumnes.com
 
 Some of my projects:
-- [plumnes.com, an open-source video streaming platform](https://plumnes.com)
-- [sanojensalat.fi, a website for speech therapy](https://sanojensalat.fi)
+- [plumnes.com](https://plumnes.com)
+An open-source video streaming platform, free.
+
+- [sanojensalat.fi](https://sanojensalat.fi)
+A PWA website for speech therapy, made for a family member.
