@@ -12,3 +12,6 @@ An open-source video streaming platform, free.
 
 - [sanojensalat.fi](https://sanojensalat.fi)
 A PWA website for speech therapy, made for a family member.
+
+- [Lauri Toikka](https://lauri-toikka.vercel.app/)
+Personal website
