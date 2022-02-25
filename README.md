@@ -7,6 +7,9 @@
 - lare@plumnes.com
 
 👷‍♂️ **Some of my projects:**
+- [ukraineisbeinginvaded.com](https://ukraineisbeinginvaded.com)
+News about ukraine's state and invasion by Russia.
+
 - [plumnes.com](https://plumnes.com)
 An open-source video streaming platform, free.
 
