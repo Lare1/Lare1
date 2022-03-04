@@ -1,6 +1,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lare1&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lare1&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+  <img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
 Hey! I'm a 16 year-old self-taught junior software developer from Finland.
 
 📤 **Reach out!**
