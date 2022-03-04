@@ -14,3 +14,5 @@ A PWA website for speech therapy, made for a family member.
 
 - [lauri-toikka.vercel.app](https://lauri-toikka.vercel.app/)
 Personal website
+
+[![Lare1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lare1)](https://github.com/anuraghazra/github-readme-stats)
