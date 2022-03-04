@@ -5,6 +5,7 @@
 - lauri.toikka@live.com
 - lauri.toikka@trustmary.com
 - lare@plumnes.com
+- [lauri-toikka.vercel.app/contact](https://lauri-toikka.vercel.app/contact)
 
 👷‍♂️ **Some of my projects:**
 - [plumnes.com](https://plumnes.com)
