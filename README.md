@@ -11,7 +11,9 @@
 <br/>
 
 <div align="center">
-  Hey! I'm a 16 year-old self-taught junior software developer from Finland.
+    <strong>
+       Hey! I'm a 16 year-old self-taught junior software developer from Finland.
+    </strong>
 </div>
 
 ---
