@@ -1,4 +1,6 @@
-# Hey! I'm a 16 year-old self-taught junior software developer from Finland.
+[![Lare1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lare1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+Hey! I'm a 16 year-old self-taught junior software developer from Finland.
 
 📤 **Reach out!**
 - [LinkedIn](https://www.linkedin.com/mwlite/in/lauri-toikka-a52925230)
@@ -14,5 +16,3 @@ A PWA website for speech therapy, made for a family member.
 
 - [lauri-toikka.vercel.app](https://lauri-toikka.vercel.app/)
 Personal website
-
-[![Lare1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lare1)](https://github.com/anuraghazra/github-readme-stats)
