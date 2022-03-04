@@ -3,8 +3,6 @@
 📤 **Reach out!**
 - [LinkedIn](https://www.linkedin.com/mwlite/in/lauri-toikka-a52925230)
 - lauri.toikka@live.com
-- lauri.toikka@trustmary.com
-- lare@plumnes.com
 - [lauri-toikka.vercel.app/contact](https://lauri-toikka.vercel.app/contact)
 
 👷‍♂️ **Some of my projects:**
