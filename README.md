@@ -1,5 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lare1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lare1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lare1&show_icons=true&theme=tokyonight&hide_border)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lare1&theme=tokyonight&hide_border)](https://github.com/anuraghazra/github-readme-stats)
 
 Hey! I'm a 16 year-old self-taught junior software developer from Finland.
 
