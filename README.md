@@ -1,7 +1,7 @@
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lare1&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lare1&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lare1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lare1&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 <div align="center">
