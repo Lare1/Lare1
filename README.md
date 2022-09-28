@@ -17,12 +17,13 @@
 </div>
 
 <div align="center">
-    JavaScript, TypeScript, React, Node.js & CSS.
+  <a href="https://lauri-toikka.vercel.app">lauri-toikka.vercel.app<a/>
 </div>
 
+---
 
 <div align="center">
-  <a href="https://lauri-toikka.vercel.app">lauri-toikka.vercel.app<a/>
+    JavaScript, TypeScript, React, Node.js & CSS.
 </div>
 
 ---
