@@ -17,6 +17,11 @@
 </div>
 
 <div align="center">
+    JavaScript, TypeScript, React, Node.js & CSS.
+</div>
+
+
+<div align="center">
   <a href="https://lauri-toikka.vercel.app">lauri-toikka.vercel.app<a/>
 </div>
 
