@@ -35,7 +35,7 @@
 
 👷‍♂️ **Some of my projects:**
 - [plumnes.com](https://plumnes.com)
-An open-source video streaming platform, free.
+An open-source video streaming platform, free. (deprecated, no longer hosted)
 
 - [sanojensalat.fi](https://sanojensalat.fi)
 An advertisement website for a speech therapist
