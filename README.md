@@ -12,7 +12,7 @@
 
 <div align="center">
     <strong>
-       Hey! I'm an 18 year-old self-taught junior software developer from Finland.
+       Hey! I'm an 18 year-old self-taught software developer from Finland.
     </strong>
 </div>
 
