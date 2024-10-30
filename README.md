@@ -37,6 +37,5 @@
 
 - [sanojensalat.fi](https://sanojensalat.fi)
 An advertisement website for a speech therapist
-
 - [lauri-toikka.vercel.app](https://lauri-toikka.vercel.app/)
 Personal website
