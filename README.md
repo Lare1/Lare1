@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <a href="https://lauri-toikka.vercel.app">lauri-toikka.vercel.app<a/>
+  <a href="https://lare1.net">lare1.net<a/>
 </div>
 
 ---
@@ -31,11 +31,11 @@
 📤 **Reach out!**
 - [LinkedIn](https://www.linkedin.com/mwlite/in/lauri-toikka-a52925230)
 - lauri.toikka@live.com
-- [lauri-toikka.vercel.app/contact](https://lauri-toikka.vercel.app/contact)
+- [lare1.net/contact](https://lare1.net/contact)
 
 👷‍♂️ **Some of my projects:**
 
 - [sanojensalat.fi](https://sanojensalat.fi)
 An advertisement website for a speech therapist
-- [lauri-toikka.vercel.app](https://lauri-toikka.vercel.app/)
+- [lare1.net](https://lare1.net/)
 Personal website
