@@ -12,7 +12,7 @@
 
 <div align="center">
     <strong>
-       Hey! I'm an 18 year-old self-taught software developer from Finland.
+       Hey! I'm a self-taught software developer from Finland.
     </strong>
 </div>
 
@@ -35,7 +35,7 @@
 
 👷‍♂️ **Some of my projects:**
 
-- [sanojensalat.fi](https://sanojensalat.fi)
-An advertisement website for a speech therapist
+- [uukki.com](https://uukki.com)
+Freelance work as a website designer / brand builder
 - [lare1.net](https://lare1.net/)
 Personal website
